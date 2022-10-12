@@ -4,7 +4,7 @@ public class Test2 {
         some
         codes
         for
-        loginPage
+        landingPage
         */
 
     }
